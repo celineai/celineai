@@ -16,4 +16,4 @@ hi! i'm celine! <br>i've recently graduated from college of charleston with a ba
 [![](https://visitcount.itsvg.in/api?id=celineai&icon=7&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/684fef60368c556c65075301?variant=dark&roadmaps=python" alt="roadmap.sh"/></a>
+
