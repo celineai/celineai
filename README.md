@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi! i'm celine! <br>i've recently graduated from college of charleston with a bachelor's degree in computer science.<br>here i've been exploring different tutorials, certificates, and even some of my personal projects.<br>my goal in life is to work with data analytics surrounding some of my favorite humanities, for instance, like book publishers, fashion corporations, and the film industry.
+hi! i'm celine! <br>i've recently graduated from college of charleston with a bachelor's degree in computer science.<br>here i've been exploring different tutorials, certificates, and even some of my personal projects.<br>one of my main hobbies is to work with data analytics surrounding some of my favorite humanities, for instance, like book publishers, fashion corporations, and the film industry.
 
 
 ## 🌐 Socials:
